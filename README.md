@@ -6,7 +6,6 @@
 - 👀 I’m interested in share my evolution in Data Science area and learn more in this area here in GitHub! 
 - ⚙️ I’m currently learning Data Science with "Escola DNC". It's a graduation in Data Analysis Full-Stack! 
 - 📫 You can contact me by e-mail: thyagonobrega1996@gmail.com
-- 😄 Pronouns: He/Him
 
 
 <!---
